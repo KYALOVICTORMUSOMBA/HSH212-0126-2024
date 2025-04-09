@@ -54,6 +54,6 @@ In addition to coding, I love experimenting in the kitchen. The **Recipe 1** and
 To run the site locally:
 
 ```bash
-git clone https://github.com/<your-username>/portfolio-website.git
-cd portfolio-website
+https://github.com/KYALOVICTORMUSOMBA/HSH212-0126-2024.git
+cd HSH212-0126-2024
 open index.html
